@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"bytebank.herdado.conta"}];updateSearchResults();
