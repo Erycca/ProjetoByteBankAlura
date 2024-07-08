@@ -1,1 +1,1 @@
-Execicios realizados nas aulas de Java ba escola Alura. 
+Execicios realizados nas aulas de Java na escola Alura. 
